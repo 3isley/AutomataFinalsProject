@@ -1,14 +1,5 @@
 # FinalsProject
 
-To Do List:
-- [x] New GUI - Kirk
-- [x] Expressions FA - bert
-- [x] CFG - Vea
-- [x] PDA - Em
-- [x] New color palette - Vea
-- [x] Input logic code - Em and Renbert
-- [x] Simulation animations - Em and Renbert
-
 GitHub Pages Link: https://yahan-vdg.github.io/AutomataFinalsProject/
 
 References used:
